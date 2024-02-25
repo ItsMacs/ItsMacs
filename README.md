@@ -1,8 +1,7 @@
-# Hi, I'm Macs!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8IH8P4)
+# Hi, I'm Alice (Macs)!
 
 ## Who am I?
-😄 I'm **Alice**, or *Macs*, a developer & composer from Italy.
+😄 I'm **Alice**, or *Macs*, a full-stack developer & composer from Italy, currently doing a Bachelor's Degree in Information Engeneering at Università di Siena.
 
 👩🏻‍💻 I've been programming since 2015 and composing since 2018. During these years I've started working as a developer and have been making games.
 
@@ -10,7 +9,7 @@
 
 🗂️ Currently CEO @ MacsWorks, one of the leading experts in Minecraft Plugin development, with more than 300 completed projects.
 
-## Skills
+## Skills (dev)
 - Java
 - C#
 - C++
@@ -24,5 +23,8 @@
 - Databases (SQL/NoSQL)
 - Redis
 - Project Management
+- Software design
+- Networking
+- 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMacs)](https://github.com/anuraghazra/github-readme-stats)
