@@ -25,6 +25,5 @@
 - Project Management
 - Software design
 - Networking
-- 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMacs)](https://github.com/anuraghazra/github-readme-stats)
