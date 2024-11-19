@@ -7,7 +7,7 @@
 
 🎮 In 2020 I started CheironMC, which went on to become one of Italy's biggest Minecraft Roleplay servers. CheironMC was closed down in 2022 because of me starting MacsWorks and general player uninterest.
 
-🗂️ See my resume at: https://drive.google.com/file/d/1Z6nGbb8r9EqmC92spxSMTPu4noIVTb4y/view?usp=sharing
+🗂️ See my resume [here](https://drive.google.com/file/d/1atqrVqFzOe4mVSuGsOz255MFDNtpTPvv/view?usp=share_link)
 
 ## Skills
 - Java
